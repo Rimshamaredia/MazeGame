@@ -1,0 +1,16 @@
+Maze tiles file: Maze.txt
+
+ 01234
+0PXXXX
+1WWWWX
+2PXXXE
+3
+move #1----------
+Player 1 Position: (0, 0)
+ 01234
+0SPXXX
+1WWWWX
+2PXXXE
+3
+move #1----------
+Player 2 Position: (2, 0)

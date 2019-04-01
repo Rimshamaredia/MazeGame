@@ -1,0 +1,4 @@
+S X X X X
+W W W W X
+S X X X E
+
